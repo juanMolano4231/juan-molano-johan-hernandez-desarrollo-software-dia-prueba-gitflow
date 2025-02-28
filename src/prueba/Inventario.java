@@ -6,8 +6,12 @@ package prueba;
 
 /**
  *
- * @author 414PC01
+ * @author 414PC02
  */
-public class Prueba {
-    
+public class Inventario {
+
+    public void metodoA() {
+        System.out.println("Ejecutando método A");
+    }
+
 }
